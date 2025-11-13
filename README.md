@@ -5,5 +5,16 @@
 <!-- Typing Animation - Description -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=59CEFF&width=435&lines=SWE-Student+%40+UTAR%2C+Malaysia" alt="Typing SVG" />
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-  
 </div>
+
+const developer = {
+    name: "Your Name",
+    location: "Your City, Country",
+    role: "Full Stack Developer",
+    code: ["JavaScript", "Python", "TypeScript", "Java"],
+    interests: ["Web Development", "Open Source", "AI/ML"],
+    currentFocus: "Building scalable applications",
+    funFact: "I debug with console.log() 🐛"
+};
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
